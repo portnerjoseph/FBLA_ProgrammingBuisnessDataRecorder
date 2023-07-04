@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomerCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customers>
+    <Customer>
+      <Times>
+        <dateTime>2017-02-22T00:00:00</dateTime>
+        <dateTime>2017-02-22T00:00:00</dateTime>
+        <dateTime>2017-02-23T21:46:26.1357977-05:00</dateTime>
+        <dateTime>2017-02-22T00:00:00</dateTime>
+      </Times>
+      <FirstName>Jacob</FirstName>
+      <LastName>Smith</LastName>
+      <Email>rgqgre</Email>
+      <Phone>(999)-999-9999</Phone>
+    </Customer>
+    <Customer>
+      <Times>
+        <dateTime>2017-02-22T00:00:00</dateTime>
+      </Times>
+      <FirstName>daren</FirstName>
+      <LastName>Pat</LastName>
+      <Email />
+      <Phone>(   )-   -</Phone>
+    </Customer>
+    <Customer>
+      <Times>
+        <dateTime>2017-02-23T08:25:04.4124224-05:00</dateTime>
+      </Times>
+      <FirstName>Terren</FirstName>
+      <LastName>Micheal</LastName>
+      <Email>dgagaergreg</Email>
+      <Phone>(777)-777-7777</Phone>
+    </Customer>
+  </Customers>
+</CustomerCollection>

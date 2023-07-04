@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmployeeCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmployeeSchedules>
+    <EmployeeSchedule>
+      <Schedule>
+        <DaySchedule>
+          <Day>Sunday</Day>
+          <Tasks>
+            <Task>
+              <Name>Help Homless</Name>
+              <Description>Give people money</Description>
+            </Task>
+            <Task>
+              <Name>Pet Dogs</Name>
+              <Description>Find dogs and pet them</Description>
+            </Task>
+          </Tasks>
+          <ShiftStart>2017-02-23T23:01:44.0854968-05:00</ShiftStart>
+          <ShiftEnd>2017-02-23T23:01:44.0879993-05:00</ShiftEnd>
+        </DaySchedule>
+        <DaySchedule>
+          <Day>Monday</Day>
+          <Tasks>
+            <Task>
+              <Name>Help Homless</Name>
+              <Description>Give people money</Description>
+            </Task>
+          </Tasks>
+          <ShiftStart>2017-02-23T22:00:12.2381869-05:00</ShiftStart>
+          <ShiftEnd>2017-02-23T22:00:12.2411896-05:00</ShiftEnd>
+        </DaySchedule>
+        <DaySchedule>
+          <Day>Thursday</Day>
+          <Tasks>
+            <Task>
+              <Name>Pet Dogs</Name>
+              <Description>Find dogs and pet them</Description>
+            </Task>
+          </Tasks>
+          <ShiftStart>2017-02-23T23:01:44.0854968-05:00</ShiftStart>
+          <ShiftEnd>2017-02-23T23:01:44.0879993-05:00</ShiftEnd>
+        </DaySchedule>
+        <DaySchedule>
+          <Day>Tuesday</Day>
+          <Tasks>
+            <Task>
+              <Name>Pet Dogs</Name>
+              <Description>Find dogs and pet them</Description>
+            </Task>
+          </Tasks>
+          <ShiftStart>2017-02-23T23:01:44.0854968-05:00</ShiftStart>
+          <ShiftEnd>2017-02-23T23:01:44.0879993-05:00</ShiftEnd>
+        </DaySchedule>
+      </Schedule>
+      <Employee>
+        <FirstName>Jerry</FirstName>
+        <LastName>Smith</LastName>
+        <Email>sdafasfsaf</Email>
+        <Phone>(432)-534-2534</Phone>
+        <Position>help</Position>
+      </Employee>
+    </EmployeeSchedule>
+    <EmployeeSchedule>
+      <Schedule>
+        <DaySchedule>
+          <Day>Monday</Day>
+          <Tasks>
+            <Task>
+              <Name>Pet Dogs</Name>
+              <Description>Find dogs and pet them</Description>
+            </Task>
+          </Tasks>
+          <ShiftStart>2017-02-23T22:00:12.2381869-05:00</ShiftStart>
+          <ShiftEnd>2017-02-23T22:00:12.2411896-05:00</ShiftEnd>
+        </DaySchedule>
+      </Schedule>
+      <Employee>
+        <FirstName>Jimmy</FirstName>
+        <LastName>Takket</LastName>
+        <Email />
+        <Phone>(342)-534-2543</Phone>
+        <Position>help</Position>
+      </Employee>
+    </EmployeeSchedule>
+  </EmployeeSchedules>
+</EmployeeCollection>

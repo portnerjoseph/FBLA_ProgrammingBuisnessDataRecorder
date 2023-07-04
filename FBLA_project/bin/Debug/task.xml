@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaskCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tasks>
+    <Task>
+      <Name>Pet Dogs</Name>
+      <Description>Find dogs and pet them</Description>
+    </Task>
+    <Task>
+      <Name>Help Homless</Name>
+      <Description>Give people money</Description>
+    </Task>
+    <Task>
+      <Name>Wash Dishes</Name>
+      <Description>fucking seths mom</Description>
+    </Task>
+  </Tasks>
+</TaskCollection>

@@ -1,0 +1,63 @@
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\FBLA_project.exe.config
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\obj\Debug\FBLA_project.csprojResolveAssemblyReference.cache
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\obj\Debug\FBLA_project.Form1.resources
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\obj\Debug\FBLA_project.Properties.Resources.resources
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\obj\Debug\FBLA_project.csproj.GenerateResource.Cache
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\FBLA_project.exe
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\FBLA_project.pdb
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\obj\Debug\FBLA_project.exe
+H:\Documents\csharp\windows form and console\FBLA_project\FBLA_project\obj\Debug\FBLA_project.pdb
+F:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.csprojResolveAssemblyReference.cache
+F:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.Form1.resources
+F:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.Properties.Resources.resources
+F:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.csproj.GenerateResource.Cache
+X:\computer programing\ATC\FBLA_project\FBLA_project\bin\Debug\FBLA_project.exe.config
+X:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.exe
+X:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.pdb
+X:\computer programing\ATC\FBLA_project\FBLA_project\bin\Debug\FBLA_project.exe
+X:\computer programing\ATC\FBLA_project\FBLA_project\bin\Debug\FBLA_project.pdb
+X:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.csprojResolveAssemblyReference.cache
+X:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.Form1.resources
+X:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.Properties.Resources.resources
+X:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.csproj.GenerateResource.Cache
+C:\Users\Joseph\Desktop\FBLA_project\FBLA_project\bin\Debug\FBLA_project.exe.config
+C:\Users\Joseph\Desktop\FBLA_project\FBLA_project\obj\Debug\FBLA_project.exe
+C:\Users\Joseph\Desktop\FBLA_project\FBLA_project\obj\Debug\FBLA_project.pdb
+C:\Users\Joseph\Desktop\FBLA_project\FBLA_project\bin\Debug\FBLA_project.exe
+C:\Users\Joseph\Desktop\FBLA_project\FBLA_project\bin\Debug\FBLA_project.pdb
+C:\Users\Joseph\Desktop\FBLA_project\FBLA_project\obj\Debug\FBLA_project.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\FBLA_project\FBLA_project\obj\Debug\FBLA_project.Form1.resources
+C:\Users\Joseph\Desktop\FBLA_project\FBLA_project\obj\Debug\FBLA_project.Properties.Resources.resources
+C:\Users\Joseph\Desktop\FBLA_project\FBLA_project\obj\Debug\FBLA_project.csproj.GenerateResource.Cache
+C:\Users\Joseph\Desktop\FBLA_project\FBLA_project\bin\Debug\FBLA_project.exe.manifest
+C:\Users\Joseph\Desktop\FBLA_project\FBLA_project\bin\Debug\FBLA_project.application
+C:\Users\Joseph\Desktop\FBLA_project\FBLA_project\obj\Debug\FBLA_project.exe.manifest
+C:\Users\Joseph\Desktop\FBLA_project\FBLA_project\obj\Debug\FBLA_project.application
+F:\computer programing\ATC\FBLA_project\FBLA_project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\computer programing\ATC\FBLA_project\FBLA_project\bin\Debug\Business_Recorder.exe.config
+F:\computer programing\ATC\FBLA_project\FBLA_project\bin\Debug\Business_Recorder.exe.manifest
+F:\computer programing\ATC\FBLA_project\FBLA_project\bin\Debug\Business_Recorder.application
+F:\computer programing\ATC\FBLA_project\FBLA_project\bin\Debug\Business_Recorder.exe
+F:\computer programing\ATC\FBLA_project\FBLA_project\bin\Debug\Business_Recorder.pdb
+F:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\Business_Recorder.exe.manifest
+F:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\Business_Recorder.application
+F:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\Business_Recorder.exe
+F:\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\Business_Recorder.pdb
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.csprojAssemblyReference.cache
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.Form1.resources
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.Properties.Resources.resources
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\FBLA_project.csproj.GenerateResource.cache
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\Business_Recorder.exe
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\ATC\FBLA_project\FBLA_project\obj\Debug\Business_Recorder.pdb

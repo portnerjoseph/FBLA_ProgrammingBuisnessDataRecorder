@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Business_Recorder.exe" version="1.0.0.6" publicKeyToken="2de2e3e6860d35c9" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="r2r2-800px.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Business_Recorder" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Business_Recorder.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.Common" version="12.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.DataVisualization" version="12.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.ProcessingObjectModel" version="12.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.SqlServer.Types" version="12.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Business_Recorder.exe" size="1111528">
+      <assemblyIdentity name="Business_Recorder" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>/vzgkbW03LQjjbDcVJBG1w1QjdcC3oVL2v1r88gbpOA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.ReportViewer.WinForms.dll" size="563392">
+      <assemblyIdentity name="Microsoft.ReportViewer.WinForms" version="12.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>sQraLWiB7q2Q3DGfeRq9DV1vAo41MrfXZBrd0AGvuTw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Business_Recorder.exe.config" size="918">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tKf4qdEHb4ohPLkpz++xJN9qEA+78hxGVSuco7w9hxA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="r2r2-800px.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kxYw7x0P2JCT3TqPdWtvhR9/6UGcUsLlIprXMeJs3ug=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-NM7D4P0\Joseph" issuerKeyHash="b1c78aa95ada95666bbdffdd3a5fad34fda109c1" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5cQOEPPu8ErEbBQBSXIX0bR4obRUfZn5B1AC8PgczEM=</DigestValue></Reference></SignedInfo><SignatureValue>JlQ2mtSXb651tT3Y73d2ts0DX5riyluDZkmYvNmA2RAsdRacZ8EWrwLJkGZflVlv0EDjX7mEXIyweEQcXKkKNpQXjfCnhsK3VdIR1MslVb20cyW41srXqmooeMq+75JLmXRWQBVSBzXRV6RiFLWlAvu7EFl0zCakwCGom/NqY6I=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xYVifZf7FdiiOfF0aqzQ6pamvVIXVXFMq/ERsyOfXluauvAxAP/PizvJ+kie3YKwvf4tY6LwUZ6k9KC7U5oM0mHTVhszncpY0vTvJd6pXfqW7+9CffbzZJ5V0N6rT1s84aIl1CxJQK6TCxbs7YKl37hPYABeSbwfkShqiQd8Qdk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="43cc1cf8f0025007f9997d54b4a178b4d117724901146cc44af0eef3100ec4e5" Description="" Url=""><as:assemblyIdentity name="Business_Recorder.exe" version="1.0.0.6" publicKeyToken="2de2e3e6860d35c9" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-NM7D4P0\Joseph</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>LfkmjNSYKEVYbUZGyn/QA6/cHwZB/GtLa4cP+nxvAfY=</DigestValue></Reference></SignedInfo><SignatureValue>Yc7c8/+dUhZd5apwXH7DTHrTedavTkuisvpxK4wludReOeWhvk2J9yOPAvXlOC0+ZybT1AorbMZm3Mlrubs9CBid7jN4SJPnvJ613BAk7UgehNk1zXtwfVJj1uVs67qnWb+zXMFVnxXua4hi9TJn2Gbvi84JtVIyKA34mbUZB8Y=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xYVifZf7FdiiOfF0aqzQ6pamvVIXVXFMq/ERsyOfXluauvAxAP/PizvJ+kie3YKwvf4tY6LwUZ6k9KC7U5oM0mHTVhszncpY0vTvJd6pXfqW7+9CffbzZJ5V0N6rT1s84aIl1CxJQK6TCxbs7YKl37hPYABeSbwfkShqiQd8Qdk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQbCYeYCjw+4FJT7Pj2ob1cjANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwARABFAFMASwBUAE8AUAAtAE4ATQA3AEQANABQADAAXABKAG8AcwBlAHAAaDAeFw0xNzAyMjQxMzA4NTRaFw0xODAyMjQxOTA4NTRaMDcxNTAzBgNVBAMeLABEAEUAUwBLAFQATwBQAC0ATgBNADcARAA0AFAAMABcAEoAbwBzAGUAcABoMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDFhWJ9l/sV2KI58XRqrNDqlqa9UhdVcUyr8RGzI59eW5q68DEA/8+LO8n6SJ7dgrC9/i1jovBRnqT0oLtTmgzSYdNWGzOdyljS9O8l3qld+pbv70J99vNknlXQ3qtPWzzhoiXULElArpMLFuztgqXfuE9gAF5JvB+RKGqJB3xB2QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAElCwyvB06KVej4wVxMzQp9aart8E+3rw3thUrEwQ4Ng/JoeujdZGjxrMWU4uDDrsQax/dfN4YkfaZTEVDUwekYBwHePHTTbx/kJz8YJ5/vQXSecpOzyMYtUO84/A2f43pvTgZ5FZil4WMgLxVzcx6K/aMfb5tfY6RngVlQIS7GS</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
